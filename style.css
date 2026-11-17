@@ -1,0 +1,10 @@
+div {
+   width: 250px;
+   height: 250px;
+   background: linear-gradient( 18deg, rgba(28, 0, 28, 0.413), rgba(33, 0, 0, 0.181));
+   border-radius: 55%;
+   box-shadow: 10px 15px 10px;
+}
+
+
+h1 { text-shadow: 10px 10px 10px rgba(22, 0, 0, 0.608);}
